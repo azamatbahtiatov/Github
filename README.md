@@ -1,2 +1,2 @@
 # Github
-If you havebGithub
+If you haven't learnt Github it's for you!
